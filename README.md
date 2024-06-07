@@ -4,27 +4,21 @@ Crypto Scraper Project is a Django application that scrapes and stores cryptocur
 Setup
 Prerequisites: Python 3.x, pip, Django
 
-Clone the repository:
+### Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your_username/crypto-scraper-project.git
 Install dependencies:
 
-bash
-Copy code
+
+###
 cd crypto-scraper-project
 pip install -r requirements.txt
-Database migration:
 
-bash
-Copy code
+To Run the development server :
 python manage.py migrate
-Run the development server:
 
-bash
-Copy code
 python manage.py runserver
+
 Once the server is running, you'll need to open http://localhost:8000 (or the appropriate port if specified) in your browser.
 
 Configuration
