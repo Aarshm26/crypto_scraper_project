@@ -1,4 +1,4 @@
-rypto Scraper Project
+Crypto Scraper Project
 Crypto Scraper Project is a Django application that scrapes and stores cryptocurrency prices and related data. This project also includes a RESTful API to help you retrieve and manage cryptocurrency data.
 
 Setup
